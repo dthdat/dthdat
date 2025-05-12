@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙌 Hi there!! My name is Dat<br><br>🔭 I’m currently working on improving my Hardware Design knowledge<br>🌱 I’m currently majoring in IC Design@HCMUS<br>⚡ Seeking for positions in Design Verification/Embedded
+🙌 Hi there! My name is Dat<br><br>🔭 I’m currently working on improving my Hardware Design knowledge<br>🌱 I’m currently majoring in IC Design at HCMUS<br>⚡ Seeking positions in Design Verification/Embedded
 
 
 ## 🌐 Socials:
